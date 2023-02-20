@@ -1,8 +1,4 @@
-                                            𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋𝑰'𝒎 𝑲𝒂𝒔𝒆𝒎 𝑹𝒐𝒐𝒎𝒆a
-         
-         
-         <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kasem Roomea</h2>
-
+<h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Kasem Roomea</h2>
 <h3 align="center">𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 💻 | 𝑬𝒏𝒕𝒓𝒆𝒑𝒓𝒆𝒏𝒆𝒖𝒓 🚀 | 𝑻𝒆𝒂𝒎𝑳𝒆𝒂𝒅𝒆𝒓 𝑵𝒆𝒕𝒘𝒐𝒓𝒌 𝑰𝒏𝒇𝒓𝒂𝒔𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆𝒔 ✔ | 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒕𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝒔𝒖𝒑𝒑𝒐𝒓𝒕🐱‍🏍 </h3>
 
 <!--
