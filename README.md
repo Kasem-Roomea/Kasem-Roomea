@@ -2,24 +2,11 @@
 <h3 align="center">𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 💻 | 𝑬𝒏𝒕𝒓𝒆𝒑𝒓𝒆𝒏𝒆𝒖𝒓 🚀 | 𝑻𝒆𝒂𝒎𝑳𝒆𝒂𝒅𝒆𝒓 𝑵𝒆𝒕𝒘𝒐𝒓𝒌 𝑰𝒏𝒇𝒓𝒂𝒔𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆𝒔 ✔ | 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒕𝒆𝒄𝒉𝒏𝒊𝒄𝒂𝒍 𝒔𝒖𝒑𝒑𝒐𝒓𝒕🐱‍🏍 </h3>
 
 <!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somarkn99&label=Profile%20views&color=0e75b6&style=flat" alt="somarkn99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kasem-Roomea&label=Profile%20views&color=0e75b6&style=flat" alt="Kasem-Roomea" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somarkn99" alt="somarkn99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kasem-Roomea" alt="Kasem-Roomea" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@kesen.somar.99](https://medium.com/@kesen.somar.99)
-
-- 📫 How to reach me **contact@somar-kesen.com**
-
-- 📄 Know about my experiences [https://www.somar-kesen.com/](https://www.somar-kesen.com/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<a href="https://medium.com/@kesen.somar.99/how-your-website-will-be-looked-at-on-social-media-8a3b3e1616cf" target="blank"> <p>How your website will be looked at on social media?
-</p> </a>
-<a href="https://medium.com/@kesen.somar.99/multiple-users-in-github-for-multiple-projects-a1716e87fa4d" target="blank"> <p>Multiple Users in GitHub for Multiple Projects</p> </a>
-<a href="https://medium.com/@kesen.somar.99/how-to-teach-your-kid-coding-a016e123f512" target="blank"> <p>How to teach coding for kids</p> </a>
-<a href="https://medium.com/@kesen.somar.99/how-to-make-your-kid-a-programming-lover-98ebf44a9fc" target="blank"> <p>How to make your kid a programming lover?</p> </a>
-<!-- BLOG-POST-LIST:END -->
+- 📄 Know about my experiences [https://www.kasem-roomea.com/](https://www.kasem-roomea.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
