@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kasem-Roomea" alt="Kasem-Roomea" /></a> </p>
 
-- 📄 Know about my experiences [https://www.kasem-roomea.com/](https://www.kasem-roomea.com/)
+- 📄 Know about my experiences [https://kasemroomea.000webhostapp.com/](https://kasemroomea.000webhostapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasemroomea" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasem.r.2000" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kasemroomea" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kasem-roomea-8401aa223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasemroomea" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yusef.anas.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kasem.r.2000" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kasemroomea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kasemroomea" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
